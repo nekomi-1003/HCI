@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Newbies Choice </title>
+	
+<style>
+.body {
+	margin: 0;
+}
+.head {
+    position: fixed;
+    z-index: 12;
+    top: 0;
+	left: 0;
+    width: 100%;
+    box-shadow: 0 1.125rem 1.375rem rgba(0,0,0,.15);
+	background-color: khaki;
+}
+.top{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+}
+.top a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.top a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.head h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+}
+.foot {
+	background-color: khaki;
+	width: 1350px;
+	float: right;
+	margin-right: -8px;
+	height: 100px;
+	margin-top: 50px;
+}
+.foot1 p{
+ margin-left: 1200px;
+}
+.foot2{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+	margin-top: 16px;
+}
+.foot2 a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.foot2 a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.foot1 h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 30px;
+}
+.foot3 h3{
+	float: left;
+	margin-left: 265px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 15px;
+}
+.foot4 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: -165px;
+}
+.foot5 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: 225px;
+}
+.box-model{
+	margin-left: 190px;
+}
+.box1{
+  background-color: #E3CF9C;
+  width: 1020px;
+  hight: 200px;
+  border: 0px;
+  padding: 50px;
+  margin: 20px;
+  margin-top: 30px;
+  margin-left: -90px;
+  box-shadow: 5px 10px 8px #888888;
+  font-size: 25px;
+  border-radius: 40px;
+  margin-bottom: 100px;
+}
+.box1 img{
+	width: 100px;
+	height: 110px;
+	margin-left: -15px;
+	margin-top: -25px;
+	border-style: solid;
+	border-radius: 50%;
+}
+.box1 p{
+	margin-left: 15px;
+}
+.us{
+	margin-top: 120px;
+	margin-left: 460px;
+	font-family: Lucida Handwriting;
+	font-size: 60px;
+}
+.footer-bottom p{
+	color: black;
+	background-color: transparent;
+	margin-top: 30;
+	font-size: 15px;
+}
+.footer-bottom span{
+	text-transform: uppercase;
+	opacity: .8;
+	font-weight: 200;
+}
+.footer-bottom a{
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+<header class="head">
+<h2>Newbies Choice</h2>
+<div class="top" style="margin-right:15px;"> 
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+</div>
+</header>
+<h1 class="us">ABOUT US</h1>
+<div class="box-model" style="display: flex;">
+	<div class="box1"  style="display: flex;">
+		<img src="C:\Users\personal\Downloads\Picsart_23-04-25_09-20-54-986.png">
+		<p>Hello and Welcome to Newbie's Choice DIY Trending Recipes! Here, we love sharing delicious and easy-to-follow recipes. Our mission is to inspire people to get into the kitchen and cook foods that they crave.
+Our team of food bloggers works hard to create easy recipes and you can do it yourself. We believe that cooking should be an enjoyable and fulfilling experience, and our recipes can help you. Here in our website, we are committed to provide you with a lot of treanding recipes that will excite your taste buds and inspire you to cook. So, if you're looking for a quick and easy meal or snack you know where to go.Just visit the newbies choice.</p>
+	</div>
+</div>
+
+
+<footer  class="foot">
+<div class="foot1">
+<h2>Newbies Choice</h2>
+	<div class="foot2" style="margin-right:15px;">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+	</div>
+<div class="foot3">
+	<h3>Contact	us:</h3>
+</div>
+
+</div>
+<div class="foot4" style="margin-top: 50px;">
+	<a href="https://www.facebook.com/profile.php?id=100091902588307&mibextid=ZbWKwL">Our Facebook Page</a>
+</div>
+
+<div class="foot5">
+	<a href="https://mail.google.com/">newbieschoice@gmail.com</a>
+</div>
+
+<div class="footer-bottom" style="margin-left:428px;">
+   <p>copyright &copy;2023 All rights reserved. Designed by <a href="file:///C:/Users/personal/Desktop/HTML/develpoers.html"><span>newbies choice team</span></a></p>
+</div>
+</footer>
+</body>
+</html>
