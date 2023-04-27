@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Newbies Choice </title>
+	
+<style>
+.body {
+	margin: 0;
+}
+.head {
+    position: fixed;
+    z-index: 12;
+    top: 0;
+	left: 0;
+    width: 100%;
+    box-shadow: 0 0.125rem 0.375rem rgba(0,0,0,.15);
+	background-color: khaki;
+}
+.top{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+}
+.top a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.top a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.head h2{
+	float: left;
+	margin-left: 100px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+}
+.recipe1 img{
+	background-color: transparent;
+	margin-top: 100px;
+	margin-left: 430px;
+}
+.foot {
+	background-color: khaki;
+	width: 1380px;
+	float: right;
+	margin-right: -8px;
+	height: 100px;
+	margin-top: 100px;
+}
+.foot1 p{
+ margin-left: 1200px;
+}
+.foot2{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+	margin-top: 16px;
+}
+.foot2 a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.foot2 a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.foot1 h2{
+	float: left;
+	margin-left: 100px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 30px;
+}
+.foot3 h3{
+	float: left;
+	margin-left: 265px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 15px;
+}
+.foot4 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: -165px;
+}
+.foot5 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: 225px;
+}
+.pic{
+	margin-top:130px;
+		
+}
+.pic1 img{
+	width: 230px;
+	margin-top: 10px;
+}
+.sentence h2{
+	margin-left: 35px;
+	color: black;
+}
+.sentence li{
+	margin-left: 30px;
+	color: black;
+	list-style-type: circle;
+	text-align: justify;
+	margin-right: 20px;
+}
+.sentence a{
+	color: blue;
+	font-size: 20px;
+	margin-left: -180px;
+	text-decoration: none;
+}
+.footer-bottom p{
+	color: black;
+	background-color: transparent;
+	margin-top: 30;
+	font-size: 15px;
+}
+.footer-bottom span{
+	text-transform: uppercase;
+	opacity: .8;
+	font-weight: 200;
+}
+.footer-bottom a{
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+<header class="head">
+<h2>Newbies Choice</h2>
+<div class="top">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+</div>
+</header>
+<div class="pic"style="display:flex;">
+	<div class="pic1">
+		<img src="C:\Users\personal\Downloads\Black Modern Food Instagram Post Template (2).jpg">
+	</div>
+	<div class="sentence">
+	<h2>Milo Dinosaur</h2>
+	<li>It is a common knowledge that the main health benefits of calcium are to promote strong bones and optimize the growth. However, Milo has one more benefit, which is vitamin D. When vitamin D is combined with calcium the result is excellent. A lot of studies have found out that the number of children who cannot fulfill their daily intake of calcium is still high and drinking Milo may help covering the lack.</li>
+	<li>Aside from calcium, the other mineral found in Milo is iron. When it comes to the health benefits of iron the list could be endless. Iron is essential in the formulation of red blood cells that will lead to optimal oxygen distribution and nutrient absorption. Iron is essential to produce new cells especially for children in their development stage.</li>
+	<li>Milo is excellent source of energy because in Milo you could find fat, carbohydrate and sugar in one package. However, parents shouldn’t worry about the side effects of those things because they have been formulated in the right amount just to meet the daily intake required by children.</li>
+	<li>Vitamin C benefits and a group of vitamin B found in Milo are the reasons why Milo could support the immunity system. Vitamin C is one of the potent antioxidants that could help body fighting some infections. So, just by giving Milo to your kids, you could reduce the risk of your children of being infected by viral infection.</li>
+	<li>Carbohydrate is not something you should avoid because there are a lot of health benefits of carbohydrate, especially for children. Carbohydrate is the source of energy strongly required by children during their golden age.</li>
+	<p style="margin-top: -45px;"><a href="https://drhealthbenefits.com/food-bevarages/beverages/health-benefits-of-drinking-milo">Reference Link</a></p>
+</div>
+</div>
+<footer  class="foot">
+<div class="foot1">
+<h2>Newbies Choice</h2>
+	<div class="foot2">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+	</div>
+<div class="foot3">
+	<h3>Contact	us:</h3>
+</div>
+
+</div>
+<div class="foot4" style="margin-top: 50px;">
+	<a href="https://www.facebook.com/profile.php?id=100091902588307&mibextid=ZbWKwL">Our Facebook Page</a>
+</div>
+
+<div class="foot5">
+	<a href="https://mail.google.com/">newbieschoice@gmail.com</a>
+</div>
+
+<div class="footer-bottom" style="margin-left:428px;">
+   <p>copyright &copy;2023 All rights reserved. Designed by <a href="file:///C:/Users/personal/Desktop/HTML/develpoers.html"><span>newbies choice team</span></a></p>
+</div>
+</footer>
+</body>
+</html>
