@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Newbies Choice </title>
+	
+<style>
+.body {
+	margin: 0;
+}
+.head {
+    position: fixed;
+    z-index: 12;
+    top: 0;
+	left: 0;
+    width: 100%;
+    box-shadow: 0 1.125rem 1.375rem rgba(0,0,0,.15);
+	background-color: khaki;
+}
+.top{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+}
+.top a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.top a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.head h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+}
+.foot {
+	background-color: khaki;
+	width: 1350px;
+	float: right;
+	margin-right: -8px;
+	height: 100px;
+	margin-top: 50px;
+}
+.foot1 p{
+ margin-left: 1200px;
+}
+.foot2{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+	margin-top: 16px;
+}
+.foot2 a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.foot2 a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.foot1 h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 30px;
+}
+.foot3 h3{
+	float: left;
+	margin-left: 265px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 15px;
+}
+.foot4 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: -165px;
+}
+.foot5 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: 225px;
+}
+.footer-bottom p{
+	color: black;
+	background-color: transparent;
+	margin-top: 30;
+	font-size: 15px;
+}
+.footer-bottom span{
+	text-transform: uppercase;
+	opacity: .8;
+	font-weight: 200;
+}
+.footer-bottom a{
+	text-decoration: none;
+}
+.both{
+	margin-top: -120px;
+}
+.fb img{
+	width: 100px;
+	margin-top: 150px;
+	margin-left: 55px;
+}
+.gmail img{
+	width: 150px;
+	margin-top: 70px;
+	margin-left: 30px;
+}
+.us{
+	margin-left: 480px;
+	font-size: 40px;
+	font-family: Lucida Handwriting;
+	margin-top: 100px;
+}
+.fb h3{
+	margin-top: 190px;
+	margin-left: 150px;
+	font-family: Lucida Handwriting;
+}
+.gmail h3{
+	margin-top: 130px;
+	margin-left: 110px;
+	font-family: Lucida Handwriting;
+}
+</style>
+</head>
+<body>
+<header class="head">
+<h2>Newbies Choice</h2>
+<div class="top">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+</div>
+</header>
+<div class="us">
+	<h2>Contact us</h2>
+</div>
+
+<div class="both">
+<div class="fb" style="display:flex;">
+	<a href="https://www.facebook.com/profile.php?id=100091902588307&mibextid=ZbWKwL"><img src="C:\Users\personal\Desktop\HTML\pictures\fb.jpg"></a>
+	<h3>Our Facebook Page</h3>
+</div>
+<div class="gmail" style="display:flex;">
+	<a href="https://mail.google.com/"><img src="C:\Users\personal\Desktop\HTML\pictures\gmail.jpg"></a>
+	<h3>newbieschoice@gmail.com</h3>
+</div>
+</div>
+<footer  class="foot">
+<div class="foot1">
+<h2>Newbies Choice</h2>
+	<div class="foot2">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+	</div>
+<div class="foot3">
+	<h3>Contact	us:</h3>
+</div>
+
+</div>
+<div class="foot4" style="margin-top: 50px;">
+	<a href="https://www.facebook.com/profile.php?id=100091902588307&mibextid=ZbWKwL">Our Facebook Page</a>
+</div>
+
+<div class="foot5">
+	<a href="https://mail.google.com/">newbieschoice@gmail.com</a>
+</div>
+
+<div class="footer-bottom" style="margin-left:428px;">
+   <p>copyright &copy;2023 All rights reserved. Designed by <a href="file:///C:/Users/personal/Desktop/HTML/develpoers.html"><span>newbies choice team</span></a></p>
+</div>
+</footer>
+</body>
+</html>
