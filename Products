@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Newbies Choice </title>
+	
+<style>
+.body {
+	margin: 0;
+}
+.head {
+    position: fixed;
+    z-index: 12;
+    top: 0;
+	left: 0;
+    width: 100%;
+    box-shadow: 0 1.125rem 1.375rem rgba(0,0,0,.15);
+	background-color: khaki;
+}
+.top{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+}
+.top a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.top a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.head h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+}
+.recipe1 img{
+	background-color: transparent;
+	margin-top: 200px;
+	margin-left: 430px;
+}
+.recipe h2{
+	text-align:center;
+	font-size: 50px;
+	font-family: Lucida Handwriting;
+	margin-top: -250px;
+}
+.pic{
+	margin-top: 200px;
+	display: flex;
+	font-family: Lucida Handwriting;
+}
+.pic1 img{
+	width: 300px;
+}
+.pic1 p{
+	width: 300px;
+	font-family: Didot;
+	font-size: 15px;
+}
+.pic2 img{
+	width: 300px;
+	margin-left: 200px;
+}
+.pic2 p{
+	margin-left: 200px;
+	font-family: Didot;
+	font-size: 15px;
+}
+.pic3 img{
+	width: 300px;
+	margin-left: 200px;
+}
+.pic3 p{
+	margin-left: 200px;
+	font-family: Didot;
+	font-size: 14px;
+}
+.pic1 h3{
+	margin-left: 90px;
+	text-decoration: none;
+}
+.pic2 h3{
+	margin-left: 270px;
+	text-decoration: none;
+}
+.pic3 h3{
+	margin-left: 270px;
+	text-decoration: none;
+}
+.foot {
+	background-color: khaki;
+	width: 1350px;
+	float: right;
+	margin-right: -8px;
+	height: 100px;
+	margin-top: 50px;
+}
+.foot1 p{
+ margin-left: 1200px;
+}
+.foot2{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+	margin-top: 16px;
+}
+.foot2 a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.foot2 a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.foot1 h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 30px;
+}
+.foot3 h3{
+	float: left;
+	margin-left: 265px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 15px;
+}
+.foot4 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: -165px;
+}
+.foot5 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: 225px;
+}
+.footer-bottom p{
+	color: black;
+	background-color: transparent;
+	margin-top: 30;
+	font-size: 15px;
+}
+.footer-bottom span{
+	text-transform: uppercase;
+	opacity: .8;
+	font-weight: 200;
+}
+.footer-bottom a{
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+<header class="head">
+<h2>Newbies Choice</h2>
+<div class="top">
+    <a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+	<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+	<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+	<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+</div>
+</header>
+<div>
+<div class="recipe1">
+	<img src="C:\Users\personal\Downloads\t.jpg">
+</div>
+<div class="recipe">
+	<h2>3 Trending Recipes</h2>
+</div>
+</div>
+<div class="pic">
+	<div class="pic1" style="margin-left:25px;">
+		<h3><a href="C:\Users\personal\Desktop\HTML\pizza.html" style="color:#4A3434;">Pizza Roll</a></h3>
+		<a href="C:\Users\personal\Desktop\HTML\pizza.html"><img src="C:\Users\personal\Downloads\Black Modern Food Instagram Post Template (1).jpg"></a>
+		<b><p>Pizza roll is a yummy bread roll made by bread loaf, hot dogs, ham slices cheese strips, pizza sauce, breadcrumbs, eggs and oil.</p></b>
+	</div>
+	<div class="pic2">
+		<h3><a href="C:/Users/personal/Desktop/HTML/minicorn.html" style="color:#4A3434;">Mini Corn Dog</a></h3>
+		<a href="C:/Users/personal/Desktop/HTML/minicorn.html"><img src="C:\Users\personal\Downloads\Black Modern Food Instagram Post Template.jpg"></a>
+		<b><p>Mini corn dog DIY recipe for Easy Homemade Mini Corn Dogs. This recipe will make 10 cheesy korean corn dogs and takes about 30 minutes to complete.</p></b>
+	</div>
+	<div class="pic3" style="margin-left:-18px;">
+		<h3><a href="C:/Users/personal/Desktop/HTML/milo.html" style="color:#4A3434;">Milo Dinosaur</a></h3>
+		<a href="C:/Users/personal/Desktop/HTML/milo.html"><img src="C:\Users\personal\Downloads\Black Modern Food Instagram Post Template (2).jpg"></a>
+		<b><p>Milo Dinosaur  is a Milo powder that is mix with condensed milk in a hot or cold water and top with millo and condensed milk. This drink is perfect for summer.</p></b>
+	</div>
+</div>
+
+<footer  class="foot">
+<div class="foot1">
+<h2>Newbies Choice</h2>
+	<div class="foot2">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+	</div>
+<div class="foot3">
+	<h3>Contact	us:</h3>
+</div>
+
+</div>
+<div class="foot4" style="margin-top: 50px;">
+	<a href="https://www.facebook.com/profile.php?id=100091902588307&mibextid=ZbWKwL">Our Facebook Page</a>
+</div>
+
+<div class="foot5">
+	<a href="https://mail.google.com/">newbieschoice@gmail.com</a>
+</div>
+
+<div class="footer-bottom" style="margin-left:428px;">
+   <p>copyright &copy;2023 All rights reserved. Designed by <a href="file:///C:/Users/personal/Desktop/HTML/develpoers.html"><span>newbies choice team</span></a></p>
+</div>
+   
+</footer>
+</body>
+</html>
