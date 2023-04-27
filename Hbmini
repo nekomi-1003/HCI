@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Newbies Choice </title>
+	
+<style>
+.body {
+	margin: 0;
+}
+.head {
+    position: fixed;
+    z-index: 12;
+    top: 0;
+	left: 0;
+    width: 100%;
+    box-shadow: 0 0.125rem 0.375rem rgba(0,0,0,.15);
+	background-color: khaki;
+}
+.top{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+}
+.top a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.top a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.head h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+}
+.recipe1 img{
+	background-color: transparent;
+	margin-top: 100px;
+	margin-left: 430px;
+}
+.foot {
+	background-color: khaki;
+	width: 1380px;
+	float: right;
+	margin-right: -8px;
+	height: 100px;
+	margin-top: 100px;
+}
+.foot1 p{
+ margin-left: 1200px;
+}
+.foot2{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+	margin-top: 16px;
+}
+.foot2 a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.foot2 a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.foot1 h2{
+	float: left;
+	margin-left: 60px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 30px;
+}
+.foot3 h3{
+	float: left;
+	margin-left: 350px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 15px;
+}
+.foot4 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: -165px;
+}
+.foot5 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: 310px;
+}
+.pic{
+	margin-top:130px;
+		
+}
+.pic1 img{
+	width: 230px;
+	margin-top: 10px;
+	margin-left: 25px;
+}
+.sentence h2{
+	margin-left: 35px;
+	color: black;
+}
+.sentence li{
+	margin-left: 30px;
+	color: black;
+	list-style-type: circle;
+	text-align: justify;
+	margin-right: 20px;
+	font-size: 20px;
+}
+.sentence a{
+	color: blue;
+	font-size: 20px;
+	margin-left: -180px;
+	text-decoration: none;
+}
+.footer-bottom p{
+	color: black;
+	background-color: transparent;
+	margin-top: 30;
+	font-size: 15px;
+}
+.footer-bottom span{
+	text-transform: uppercase;
+	opacity: .8;
+	font-weight: 200;
+}
+.footer-bottom a{
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+<header class="head">
+<h2>Newbies Choice</h2>
+<div class="top" style="margin-right:15px;">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+</div>
+</header>
+<div class="pic"style="display:flex;">
+	<div class="pic1">
+		<img src="C:\Users\personal\Downloads\Black Modern Food Instagram Post Template.jpg">
+	</div>
+	<div class="sentence">
+	<h2>Mini Corn Dog</h2>
+	<li>The humble corn dog is a prime example of a high fiber food because it's usually served on a wooden stick. In theory, the fiber found in the wood makes its way into the mush of the dog inside the corn, dramatically increasing the useful splinter, I mean, fiber content of the dog.</li>
+	<p style="margin-top: 120px;"><a href="https://www.bodybuilding.com/fun/betteru40.htm#:~:text=The%20humble%20corn%20dog%20is,fiber%20content%20of%20the%20dog.">Reference Link</a></p>
+</div>
+</div>
+<footer  class="foot">
+<div class="foot1">
+<h2>Newbies Choice</h2>
+	<div class="foot2" style="margin-right:15px;">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+	</div>
+<div class="foot3">
+	<h3>Contact	us:</h3>
+</div>
+
+</div>
+<div class="foot4" style="margin-top: 50px;">
+	<a href="https://www.facebook.com/profile.php?id=100091902588307&mibextid=ZbWKwL">Our Facebook Page</a>
+</div>
+
+<div class="foot5">
+	<a href="https://mail.google.com/">newbieschoice@gmail.com</a>
+</div>
+<div class="footer-bottom" style="margin-left:428px;">
+   <p>copyright &copy;2023 All rights reserved. Designed by <a href="file:///C:/Users/personal/Desktop/HTML/develpoers.html"><span>newbies choice team</span></a></p>
+</div>
+</footer>
+</body>
+</html>
