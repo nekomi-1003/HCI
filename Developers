@@ -1,0 +1,218 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Newbies Choice </title>
+	
+<style>
+.body {
+	margin: 0;
+}
+.head {
+    position: fixed;
+    z-index: 12;
+    top: 0;
+	left: 0;
+    width: 100%;
+    box-shadow: 0 1.125rem 1.375rem rgba(0,0,0,.15);
+	background-color: khaki;
+}
+.top{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+}
+.top a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.top a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.head h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+}
+.foot {
+	background-color: khaki;
+	width: 1350px;
+	float: right;
+	margin-right: -8px;
+	height: 100px;
+	margin-top: 50px;
+}
+.foot1 p{
+ margin-left: 1200px;
+}
+.foot2{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+	margin-top: 16px;
+}
+.foot2 a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.foot2 a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.foot1 h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 30px;
+}
+.foot3 h3{
+	float: left;
+	margin-left: 265px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 15px;
+}
+.foot4 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: -165px;
+}
+.foot5 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: 225px;
+}
+.dev{
+	margin-top: 130px;
+	margin-left: 350px;
+	font-family: Lucida Handwriting;
+	font-size: 90px;
+} 	
+.box-model{
+	margin-left: 185px;
+}
+.box1{
+  background-color: #E3CF9C;
+  width: 1000px;
+  hight: 200px;
+  border: 0px;
+  padding: 50px;
+  margin: 20px;
+  margin-top: 130px;
+  margin-left: -72px;
+  box-shadow: 5px 10px 8px #888888;
+  font-family: Baskerville;
+  font-size: 25px;
+}
+.box1 img{
+	width: 40%;
+	height: 210px;
+	margin-left: 20px;
+	margin-top: 8px;
+	border-style: solid;
+}
+.text{
+	margin-left: 40px;
+	margin-top: 10px;
+}
+.text h2{
+	margin-top: -10px;
+}
+.text p{
+	margin-top: -20px;
+	font-family: Didot;
+}
+.footer-bottom p{
+	color: black;
+	background-color: transparent;
+	margin-top: 30;
+	font-size: 15px;
+}
+.footer-bottom span{
+	text-transform: uppercase;
+	opacity: .8;
+	font-weight: 200;
+	text-decoration: none;
+}
+.footer-bottom a{
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+<header class="head">
+<h2>Newbies Choice</h2>
+<div class="top" style="margin-right:15px;">
+    <a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+	<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+	<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+	<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+</div>
+</header>
+<h1 class="dev">DEVELOPERS</h1>
+
+<div class="box-model" style="display: flex;margin-top:-110px;">
+	<div class="box1" style="display: flex;">
+		<img src="C:\Users\personal\Desktop\HTML\pictures\thon.jpg">
+	<div class="text">
+		<h2>Thon Joseph P. Etang</h2>
+		<p>Thon Joseph P. Etang 19 years old his Birthday is on September 08,2003.He is studying Bachelor of Science in Information Technology in Phinma Cagayan De Oro College and he is the Developer of Newbie's Choice Website.</p>
+	</div>
+	</div>
+</div>
+
+<div class="box-model" style="display: flex;margin-top: -40px;">
+	<div class="box1" style="display: flex;">
+		<img src="C:\Users\personal\Desktop\HTML\pictures\ira.jpg">
+	<div class="text">
+		<h2>Krystyll Ira Andrei T.Plaza</h2>
+		<p>Krystyll Ira Andrei T.Plaza 19 years old her Birthday is on October 03,2003.She is studying Bachelor of Science in Information Technology in Phinma Cagayan De Oro College and she is the Designer of Newbie's Choice Website.</p>
+	</div>
+	</div>
+</div>
+
+<div class="box-model" style="display: flex;margin-top: -40px;">
+	<div class="box1" style="display: flex;">
+		<img src="C:\Users\personal\Desktop\HTML\pictures\imma.jpg">
+	<div class="text">
+		<h2>Immari Lea B. Mayordomo</h2>
+		<p>Immari Lea B. Mayordomo 19 years old her Birthday is on December 08,2003.She is studying Bachelor of Science in Information Technology in Phinma Cagayan De Oro College and she is the Designer of Newbie's Choice Website.</p>
+	</div>
+	</div>
+</div>
+<footer  class="foot">
+<div class="foot1">
+<h2>Newbies Choice</h2>
+	<div class="foot2" style="margin-right:15px;">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+	</div>
+<div class="foot3">
+	<h3>Contact	us:</h3>
+</div>
+
+</div>
+<div class="foot4" style="margin-top: 50px;">
+	<a href="https://www.facebook.com/profile.php?id=100091902588307&mibextid=ZbWKwL">Our Facebook Page</a>
+</div>
+
+<div class="foot5">
+	<a href="https://mail.google.com/">newbieschoice@gmail.com</a>
+</div>
+
+<div class="footer-bottom" style="margin-left:428px;">
+   <p>copyright &copy;2023 All rights reserved. Designed by <a href="file:///C:/Users/personal/Desktop/HTML/develpoers.html"><span>newbies choice team</span></a></p>
+</div>
+</footer>
+</body>
+</html>
