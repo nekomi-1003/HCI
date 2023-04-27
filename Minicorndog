@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Newbies Choice </title>
+	
+<style>
+.body {
+	margin: 0;
+}
+.head {
+    position: fixed;
+    z-index: 12;
+    top: 0;
+	left: 0;
+    width: 100%;
+    box-shadow: 0 0.125rem 0.375rem rgba(0,0,0,.15);
+	background-color: khaki;
+}
+.top{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+}
+.top a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.top a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.head h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+}
+.recipe1 img{
+	background-color: transparent;
+	margin-top: 100px;
+	margin-left: 430px;
+}
+.recipe h2{
+	text-align:center;
+	font-size: 50px;
+	font-family: Didot;
+	margin-top: -250px;
+}
+.pic{
+	margin-top: 350px;
+	margin-left: 100px;
+	display: flex;
+}
+.pic1 img{
+	width: 200px;
+	margin-top: 25px;
+}
+.pic a{
+	font-family: Lucida Handwriting ;
+	text-decoration: none;
+	margin-left: 50px;
+}
+.video embed{
+	height:345px;
+	width:600px;
+	padding: 20px;
+	margin-top: -80px;
+	margin-left: 120px;	
+}
+.arrange1 h5{
+	 margin-left: 130px;
+	 font-size: 20px;
+	 margin-top: 15px;
+}
+.arrange{
+	 margin-left: 100px;
+	 font-family: Lucida Handwriting ;
+}
+.ingredients{
+	 margin-left: 108px;
+	 margin-top: -40px;
+	 font-family: Didot;
+}
+.ingredients li{
+	 margin-left: -22px;
+}
+.procedure li{
+	 margin-left: 80px;
+}
+.procedure{
+	 margin-top: -39px;
+	 font-family: Didot;
+}
+.foot {
+	background-color: khaki;
+	width: 1350px;
+	float: right;
+	margin-right: -8px;
+	height: 100px;
+	margin-top: 50px;
+}
+.foot1 p{
+ margin-left: 1200px;
+}
+.foot2{
+	float: right;
+	padding: 10px;			
+	font-size: 17px;
+	margin-top: 16px;
+}
+.foot2 a:hover {
+	background-color: #E7C032;
+	color: black;
+}
+.foot2 a{
+	float: left;
+	color: black;
+	padding: 14px 16px;
+	text-decoration: none;			
+	font-size: 20px;
+}
+.foot1 h2{
+	float: left;
+	margin-left: 30px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 30px;
+} 	
+.foot3 h3{
+	float: left;
+	margin-left: 350px;
+	font-size: 25px;
+	font-family: Lucida Handwriting;
+	margin-top: 15px;
+}
+.foot4 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: -165px;
+}
+.foot5 a{
+	font-family: Lucida Handwriting;
+	text-decoration: none;
+	margin-left: 310px;
+}
+.footer-bottom p{
+	color: black;
+	background-color: transparent;
+	margin-top: 30;
+	font-size: 15px;
+}
+.footer-bottom span{
+	text-transform: uppercase;
+	opacity: .8;
+	font-weight: 200;
+}
+.footer-bottom a{
+	text-decoration: none;
+}
+</style>
+</head>
+<body>
+<header class="head">
+<h2>Newbies Choice</h2>
+<div class="top"  style="margin-right:15px;">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+</div>
+</header>
+<div>
+<div class="recipe">
+	<h2>3 Trending Recipes</h2>
+</div>
+</div>
+<div class="pic">
+	<div class="pic1">
+		<img src="C:\Users\personal\Downloads\Black Modern Food Instagram Post Template.jpg">
+		<p><a href="file:///C:/Users/personal/Desktop/HTML/SMcorndog.html">See more:</a></p>
+	</div>
+	<div class="video">
+		<embed video src="mini.mp4"></embed>
+	</div>
+</div>
+<div class="arrange">
+<div class="arrange1" style="display: flex;">
+	<h4> INGREDIENTS: </h4>
+	<h5> Procedure: </h5>
+</div>
+</div>
+<div class="ingredients1"style="display: flex;">
+<div class="ingredients"> 
+			<ul style="disc">
+				<li> Hot dog</li>
+				<li> Cheese</li>
+				<li> All Purpose Flour</li>
+				<li> Baking Powder</li>
+				<li> Sugar</li>
+				<li> Salt</li>
+				<li> Milk</li>
+				<li> Bread crumbs</li>
+				<li> Eggs</li>
+				<li> BBQ sticks</li>
+			</ul>
+</div>
+<div class="procedure">
+			<ol type='1'>
+				<li>Prepping the ingredients.Cut the hot dog into cubes, then cut cheese into cube</li>
+				<li>.Crack 2 eggs and mix it with corn starch,a pinch of salt,half teaspoon of sugar and the milk,mix it all together.</li>
+				<li>Next is we arrange the hot dog and cheese into the bbq stick.</li>
+				<li>Then dip your bbq stick into the glass of batter mixture.</li>
+				<li>Next you out bread crumbs into your bbq stick and repeat it until all your bbq stick are covered with bread crumbs.</li>
+				<li>Heat some oil in a pan. Then, deep fry the mini corn dog until golden brown.Put paper towels to drip excess oil, and its ready to serve.
+			</ol>
+</div>
+</div>
+<footer  class="foot">
+<div class="foot1">
+<h2>Newbies Choice</h2>
+	<div class="foot2"  style="margin-right:15px;">
+		<a href="C:/Users/personal/Desktop/HTML/revise/Revise.html">Home</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/shesh.html">Product</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/aboutus.html">About us</a>
+		<a href="file:///C:/Users/personal/Desktop/HTML/revise/contactus.html">Contact us</a>
+	</div>
+<div class="foot3">
+	<h3>Contact	us:</h3>
+</div>
+
+</div>
+<div class="foot4" style="margin-top: 50px;">
+	<a href="https://www.facebook.com/profile.php?id=100091902588307&mibextid=ZbWKwL">Our Facebook Page</a>
+</div>
+
+<div class="foot5">
+	<a href="https://mail.google.com/">newbieschoice@gmail.com</a>
+</div>
+
+<div class="footer-bottom" style="margin-left:428px;">
+   <p>copyright &copy;2023 All rights reserved. Designed by <a href="file:///C:/Users/personal/Desktop/HTML/develpoers.html"><span>newbies choice team</span></a></p>
+</div>
+</footer>
+</body>
+</html>
